@@ -1,0 +1,28 @@
+{
+    "ownerNumber": ["6285706176379@s.whatsapp.net","6285706176379@s.whatsapp.net"],
+    "ownerName": "faril-Botz",
+    "instagram" : "https://instagram.com/kotaro_cans",
+    "gcwa" : "https://chat.whatsapp.com/HrSt501wEprJ6YdWMAX0P2",
+    "botName": "Faril-Botz",
+    "footer": "©FarilBotz",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Faril.jpg",
+    "BotKey": "Apikey lu",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
